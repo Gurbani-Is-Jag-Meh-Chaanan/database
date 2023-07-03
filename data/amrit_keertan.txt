@@ -12,81 +12,81 @@ Shabad MAH
 Shabad 994, Line 0TAK
 # Missing shabad, hrks b jhW nSo numW my Kwhd, page 68, Amrit Keertan
 Shabad LWN, Line G38F
-Lines M6SG - 23E9
+Lines M6SG - 23E9,  Line 23E9
 Shabad A56
 Shabad 4VB
-Shabad G62, jnm mrx invwir lyhu ]
-Shabad 7XH, crn kml pRB ky inq iDAwvau ]
-Shabad 5BN, syvk kI Ardwis ipAwry ]
+Shabad G62
+Shabad 7XH, Line FV3M
+Shabad 5BN, Line 90BH
 Shabad 6YU
 Shabad 787
-Shabad 5SV, Bgqw kI tyk qUM sMqw kI Et qUM
+Shabad 5SV, Line PCB1
 Shabad WXM
 Shabad 54Y
 Shabad U1L
 
 - hir kir ikrpw min vsu jIau
-Shabad A81, morY ihrdY bshu gopwl ]
+Shabad A81, Line LCDA
 Shabad EB1
 Shabad C10
-Shabad XHM, Twkur jw ismrw qUM qwhI ]
-Shabad AT5, kir ikrpw vshu myrY ihrd, suix suix nwmu qumwrw pRIqm
-Shabad 4NW, mn qn AMqir vsu dUKw nwsu hoie ], gux gwvw idnu rYix eyqY kMim lwie ]
+Shabad XHM, Line PNP4
+Shabad AT5, Line N27H
+Shabad 4NW, Line TUF2
 Line KRHU
 Line ZYJ4
-Shabad FHS, mn mih bshu mil
+Shabad FHS, Line 6WJQ
 
 - qum@ krhu dieAw myry sweI
-Shabad 0US, qum@ krhu dieAw myry sweI ]
-Lines FPQ8 - TWEV, rwm guseIAw jIA ky jIvnw ]
-Shabad KRA, Twkur quJ ibnu bIAw n hor ]
+Shabad 0US, Line RTUB
+Lines FPQ8 - TWEV, Line ATZA
+Shabad KRA, Line K6UK
 Shabad JMX
-Shabad AC7, rwm mo kau hir jn myil ipAwry ]
+Shabad AC7, Line 96LR
 Shabad BBH
 Shabad FKA
 Shabad QT3
-Shabad BA4, srin pry kI rwKu dieAwlw ]
-Shabad Y92, hir jIau sdw qyrI srxweI ]
-Shabad 1EZ, ibnau krY nwnku kr joir ]
+Shabad BA4, Line NCMP
+Shabad Y92, Line 2886
+Shabad 1EZ, Line JVEG
 Shabad 0SU
-Shabad CUB, rwm mY hir hir nwmu min BwieAw ]
+Shabad CUB, Line EP5C
 Lines NZE8 - CJZH
 Lines BPE2 - U52C
 Lines VGRZ - MUY5
 Shabad D2Q
-Shabad JBT, ApunI ibiD Awip jnwvhu ]
-Shabad KWV, gur qwir qwrxhwirAw ]
-Shabad 6GE, ijhvw eyk kvn gun khIAY ]
+Shabad JBT, Line TN12
+Shabad KWV, Line QSX0
+Shabad 6GE, Line U1BU
 Shabad DX1
-Shabad GPA, pRB jIau Ksmwnw kir ipAwry ]
+Shabad GPA, Line 7QGD
 Shabad 6VJ
 Shabad X8W
-Shabad N0A, hau nw Cofau kMq pwsrw ]
+Shabad N0A, Line P8MT
 
 - FwFI kry pukwr
 Shabad 7YB
 Shabad CKT
 Shabad U77
 Shabad L0U
-Shabad 6U5, FwFI kry pswau sbdu vjwieAw ]
-Shabad HWG, FwFI dir pRB mMgxw
+Shabad 6U5, Line 6FRB
+Shabad HWG, Line H50X
 Shabad F22
 Shabad FL9
 Shabad G30
 Shabad JVG
 
 - gurisKW kI hir DUiV dyih
-Shabad 8XG, kir ikrpw dieAwl pRB ieh iniD isiD pwvau ]
-Shabad 8SR, krau mnorQ mnY mwih
-Shabad 4QV, qum@ imlqy myrw mnu jIE qum@ imlhu dieAwl ]
-Shabad AQ8, kir ikrpw DUir dyhu sMqn kI
+Shabad 8XG, Line WSKA
+Shabad 8SR, Line 8Z6T
+Shabad 4QV, Line SBZR
+Shabad AQ8, Line DBJW
 Shabad MVP
 
 - ijau jwnhu iqau rwKu
 Shabad EV3
 Shabad PBJ
 Shabad JSL
-Shabad JLC, mwnu krau quDu aUpry myry pRIqm ipAwry ]
+Shabad JLC, Line 7EG5
 Shabad 218
 Shabad X6V
 Shabad 3JP
@@ -95,6 +95,16 @@ Shabad 3JP
 Shabad 1UQ
 Shabad YH4
 Shabad CUP
+Shabad J5L, Line FYTH
+Shabad 78L
+Shabad P0Z
+Shabad EER, Line QGEE
+Shabad Z96, Line XZ0B
+Shabad TW2
+Shabad 4R4, Line 4VDL
+Shabad LK8
+Lines TB18 - Y5RM
 
-#Amrit keertan, page 91
+#Amrit keertan, page 95 shabad 2
+
 
