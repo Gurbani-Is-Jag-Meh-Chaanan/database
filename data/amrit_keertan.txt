@@ -30,8 +30,8 @@ Shabad A81, Line LCDA
 Shabad EB1
 Shabad C10
 Shabad XHM, Line PNP4
-Shabad AT5, Line N27H
-Shabad 4NW, Line TUF2
+Shabad AT5, Line N27H, Line M0GC
+Shabad 4NW, Line TUF2, Line V0ZP
 Line KRHU
 Line ZYJ4
 Shabad FHS, Line 6WJQ
@@ -112,9 +112,35 @@ Shabad X2L
 Shabad K57
 Shabad 4V4, Line 88A4
 Shabad 22V, Line JFUM
-Shabad 66S, Line JF7E
+Shabad 66S, Line JF7E, Line GC5D
+Shabad N0R, Line XQ7N
+Shabad G54, Line NF09
+Shabad T4T
+Shabad BGB, Line LXPL
+Shabad Z84, Line 9BZ3
+Shabad FKC, Line C2DT, Line 5HU4
+Shabad D1T
+Shabad MDK, Line 1XRN
+Shabad GYY
+Shabad C8P, Line LP72
+Shabad GAN
+Shabad BKX
+Shabad BDK, Line 85A6
 
+- hm AYsy qU AYsw
+Shabad 4GK, Line 2UXA
+Shabad XAW
+Shabad XMY, Line 5BZ9
+Shabad R9S
+Shabad C3U, Line KFC0
+Shabad HCR, Line R8JW
+Shabad 3TH, Line 8SNJ
+Shabad M34, Line X4Q1, Line FPZ5
+Shabad RBQ, Line F25F
+Shabad GNM, Line 97DJ
+Lines 9TCP - BM31, Line BM31
+Shabad 8X3, Line 054Q
 
-#Amrit keertan, page 99
+#Amrit keertan, page 108, shabad 2
 
 
